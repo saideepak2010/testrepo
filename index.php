@@ -4,8 +4,6 @@
 <?php echo "test3";?>
 <?php echo "test4";?>
 <?php echo "test41";?>
-<<<<<<< HEAD
 <?php echo "test41";?>
-=======
 <?php echo "test42";?>
->>>>>>> submaster1
+<?php echo "test44";?>
